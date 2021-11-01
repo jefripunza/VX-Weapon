@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "virtex/",
+        "x-sources/",
+        "coretan.js",
+        "*.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "VX-Weapon",
+    "version": "1.0.0",
+    "update": [{
+        "1.0.0": [
+            "new project build"
+        ]
+    }],
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@adiwajshing/baileys": "^3.5.2",
+        "chalk": "^4.1.2",
+        "figlet": "^1.5.2",
+        "node-fetch": "^3.0.0",
+        "validate-phone-number-node-js": "^0.0.1"
+    }
+}
